@@ -7,7 +7,7 @@
  <body>
     <?php
     
-   //jfkdjfdklffdfd  $config = array(
+     $config = array(
     'database' => 'adresar',
     'username' => 'root',
     );
